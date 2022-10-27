@@ -2,7 +2,6 @@
 
 .container {
   background-color: #E2CDCC;
-  text-align: center;
   color: #7E574E;
 
 
@@ -12,7 +11,8 @@
 
 .App-header {
   background-color: #E2CDCC;
-  font-size: 60px;
+  text-align: center;
+  font-size: 40px;
 }
 
 .App-footer {
