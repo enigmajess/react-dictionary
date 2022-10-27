@@ -1,22 +1,23 @@
-.App {
+
+
+.container {
+  background-color: #E2CDCC;
   text-align: center;
+  color: #7E574E;
+
+
+
+
 }
-
-
 
 .App-header {
   background-color: #E2CDCC;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
   font-size: 60px;
-  color: #7E574E;
 }
 
-.App-link {
-  color: #61dafb;
+.App-footer {
+  text-align: center;
 }
+
 
 
