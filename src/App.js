@@ -12,9 +12,9 @@ function App() {
       </div>
       <footer className='App-footer'>
       <span>Coded by Jessica Neumann | Open sourced on </span>  
-        <a href='https://github.com/enigmajess/react-dictionary' target="_blank">Github</a> 
+        <a href='https://github.com/enigmajess/react-dictionary' target="_blank" rel='noreferrer'>Github</a> 
         <span> and hosted on </span> 
-        <a href='https://visionary-granita-bf948b.netlify.app' target="_blank">Netlify.</a>
+        <a href='https://visionary-granita-bf948b.netlify.app' target="_blank" rel='noreferrer'>Netlify.</a>
       </footer>
     </div>
   );
