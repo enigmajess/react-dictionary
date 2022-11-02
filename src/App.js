@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         Dictionary Search Engine
       </header>
-      <Dictionary />
+      <Dictionary defaultKeyword = "Feline" />
       </div>
       <footer className='App-footer'>
         Coded by Jessica Neumann

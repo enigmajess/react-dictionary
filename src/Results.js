@@ -14,6 +14,7 @@ export default function Results(props) {
               <div key={index}>
                 <Phonetic phonetic={phonetic} />
               </div>
+              
             );
           })}
         </section>
