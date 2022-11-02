@@ -1,0 +1,10 @@
+.Phonetic audio {
+  margin-top: 5px; 
+  margin-bottom: 5px; 
+}
+
+.Phonetic p {
+    opacity: 0.5;
+    font-weight: bolder;
+    font-size: larger;
+}

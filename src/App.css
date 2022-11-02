@@ -1,7 +1,7 @@
 
 
 .container {
-  background-color: #E2CDCC;
+  background-color: #ffff;
   color: #7E574E;
 
 
@@ -10,14 +10,18 @@
 }
 
 .App-header {
-  background-color: #E2CDCC;
+  background-color: #ffff;
   text-align: center;
   font-size: 40px;
 }
 
 .App-footer {
   text-align: center;
+  color: #33524D;
 }
 
+a {
+  color: #7E574E;
+}
 
 
