@@ -3,8 +3,8 @@
 .container {
   background-color: #ffff;
   color: #7E574E;
-
-
+  margin: auto;
+  max-width: 900px;
 
 
 }
@@ -18,10 +18,13 @@
 .App-footer {
   text-align: center;
   color: #33524D;
+  font-size: 15px;
+
 }
 
 a {
-  color: #7E574E;
+  color: #33524D;
 }
+
 
 
